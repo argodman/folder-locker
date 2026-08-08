@@ -1,6 +1,6 @@
-FolderLocker
-<br>Made by ArGoDmAn
-<br>Telegram: @argodman
+<h1>FolderLocker</h1>
+<br>Made by <b>ArGoDmAn</b>
+<br>Email: mly878913@gmail.com
 <br>version 0.3.4(early access)
 <br>to set password go to line 46 and change that number(22580 is default) 
 <br>feel free to contact for more information and bug reports
